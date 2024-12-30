@@ -1,6 +1,5 @@
-navbar_title = 'Monochrome'
-footer = "Copyright © 2021-2024 by kaiiiz"
-author = "kaiiiz"
+navbar_title = 'Alexander McWilliams'
+footer = "Created using Github & Monochrome."
 color_scheme = "light"
 
 enable_zooming_js = true

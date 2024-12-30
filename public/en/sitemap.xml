@@ -3,6 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2024-12-30T12:49:04-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
@@ -38,7 +39,7 @@
                 href="http://localhost:1313/series/"
                 />
   </url><url>
-    <loc>http://localhost:1313/about/about_me/</loc>
+    <loc>http://localhost:1313/about/aboutme/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
     <xhtml:link

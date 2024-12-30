@@ -1,4 +1,4 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'alexander mcwilliams'
+title = 'Alexander McWilliams'
 theme = "hugo-theme-monochrome"
