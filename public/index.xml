@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Monochrome</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Monochrome</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Support</title>
+      <link>http://localhost:1313/about/about_me/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/about/about_me/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m Alexander. I work as a Data Scientist at Rockstar Games in NYC, supporting the Security &amp;amp; Trust and Safety teams. I&amp;rsquo;ve been at Rockstar since November of 2021, and I&amp;rsquo;ve thorougly enjoyed the ride thus far.&lt;/p&gt;
+&lt;p&gt;Outside of work, I&amp;rsquo;m an avid reader, writer, cyclist, gamer, and soccer enthusiast.&lt;/p&gt;
+&lt;p style=&#34;width: 164px&#34;&gt;
+&lt;a href=&#34;https://www.buymeacoffee.com/ykzheng&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png&#34; alt=&#34;Buy Me A Coffee&#34; style=&#34;height: 45px !important;width: 164px !important; margin-left: 0px; margin-right: 0px;&#34; &gt;&lt;/a&gt;
+&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
