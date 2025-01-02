@@ -728,17 +728,17 @@ html[data-theme="dark"] .bookcase-item img, html[data-theme="dark"] .bookcase-it
   flex-direction: column;
   position: relative;
   align-items: center; }
-  @media screen and (max-width: 24rem) {
+  @media screen and (max-width: 48rem) {
     .balloon-layout .balloon-card-item .balloon-card-item-line, .balloon-layout .balloon-title-item .balloon-title-item-line, .balloon-layout .balloon-head-item .balloon-head-item-desktop {
       display: none; } }
 .balloon-layout .balloon-card-item .balloon-card-item-content, .balloon-layout .balloon-title-item .balloon-title-item-content, .balloon-layout .balloon-head-item .balloon-head-item-content {
   display: flex;
   flex: 1 1 0%;
   margin-left: -12px; }
-  @media screen and (max-width: 24rem) {
+  @media screen and (max-width: 48rem) {
     .balloon-layout .balloon-card-item .balloon-card-item-content, .balloon-layout .balloon-title-item .balloon-title-item-content, .balloon-layout .balloon-head-item .balloon-head-item-content {
       margin-left: 0; } }
-@media screen and (min-width: 24rem) {
+@media screen and (min-width: 48rem) {
   .balloon-layout {
     margin-left: -1.75rem; } }
 
